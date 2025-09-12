@@ -24,7 +24,9 @@ Self hosting:
 
 6. Open "https://<your server dns name>".
 
-7. Happy listening!
+7. Delete the " bootstrap.php" file for security reasons.
+
+8. Happy listening!
 <br>
 <br>
 Add radio station:
