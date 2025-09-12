@@ -16,13 +16,13 @@ Self hosting:
 
 2. Copy the " bootstrap.php" file to the root of your webserver.
 
-3. Open "https://<your server dns name>/bootstrap.php".
+3. Open "https://[your server dns name]/bootstrap.php".
 
 4. Follow the instructions.
 
 5. The script should install everything within a few second.
 
-6. Open "https://<your server dns name>".
+6. Open "https://[your server dns name]".
 
 7. Delete the " bootstrap.php" file for security reasons.
 
