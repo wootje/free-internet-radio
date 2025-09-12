@@ -14,7 +14,7 @@ Self hosting:
 
 1. Download the repo as ZIP or download only the PHP bootstrap install script (releases).
 
-2. Ccopy the " bootstrp.php" file to the root of your webserver.
+2. Copy the " bootstrap.php" file to the root of your webserver.
 
 3. Open "https://<your server dns name>/bootstrap.php".
 
