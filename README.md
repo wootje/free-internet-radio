@@ -1,5 +1,5 @@
 # free-internet-radio
-Free internet radio with "https://radio-online" as backend. A large database with music songs. 
+Free internet radio with <a href="https://www.radio-browser.info" target="_blank">https://www.radio-browser.info"</a> as backend. A large database with music songs. 
 
 I made a free web-interface to play online radio. You can listen via my website or host it on your own webserver. You can also add radio stations on their website yourself.
 <br>
