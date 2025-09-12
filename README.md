@@ -7,10 +7,26 @@ I made a free web-interface to play online radio. You can listen via my website 
 <br>
 My website:
 <a href="https://urlshrt.eu/radio" target="_blank">https://urlshrt.eu/radio</a>
-
+<br>
+<br>
+<br>
 Self hosting:
-<a href="https://urlshrt.eu/onlineradiogithub" target="_blank">https://urlshrt.eu/onlineradiogithub</a>
 
+1. Download the repo as ZIP or download only the PHP bootstrap install script (releases).
+
+2. Ccopy the " bootstrp.php" file to the root of your webserver.
+
+3. Open "https://<your server dns name>/bootstrap.php".
+
+4. Follow the instructions.
+
+5. The script should install everything within a few second.
+
+6. Open "https://<your server dns name>".
+
+7. Happy listening!
+<br>
+<br>
 Add radio station:
 <a href="https://urlshrt.eu/addradiostation" target="_blank">https://urlshrt.eu/addradiostation</a>
 <br>
@@ -25,7 +41,6 @@ Feel free to ask for extra features. If possibe, then I will add the feature.
 <br>
 <br>
 <img src="https://urlshrt.eu/onlineradiosscreenshot2"></img>
-<br>
 <br>
 <br>
 Feel free to ask for extra features. If possibe, then I will add the feature.
