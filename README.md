@@ -10,7 +10,7 @@ My website:
 <br>
 <br>
 <br>
-Self hosting:
+<b>Self hosting:</b>
 
 1. Download the repo as ZIP or download only the PHP bootstrap install script (releases).
 
@@ -29,8 +29,14 @@ Self hosting:
 8. Happy listening!
 <br>
 <br>
-Add radio station:
+<b>Add radio station:</b>
 <a href="https://urlshrt.eu/addradiostation" target="_blank">https://urlshrt.eu/addradiostation</a>
+<br>
+<br>
+<br>
+Update 2025-09-13:
+<br>
+Added registration option so you can connect your YouTube (Music) or Spotify account & manage your favourite radio channels. You can add songs that are playing on the radio to your YT(M)/Spotify playlists when the API details are entered.
 <br>
 <br>
 <br>
