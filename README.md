@@ -43,21 +43,6 @@ Added registration option so you can connect your YouTube (Music) or Spotify acc
 Feel free to ask for extra features. If possibe, then I will add the feature.
 <br>
 <br>
-<br>
-<img src="https://urlshrt.eu/onlineradiosscreenshot1"></img>
-<br>
-<br>
-<br>
-<img src="https://urlshrt.eu/onlineradiosscreenshot2"></img>
-<br>
-<br>
-Feel free to ask for extra features. If possibe, then I will add the feature.
-<br>
-<br>
-<br>
-<b>Buy me a cup of coffee!</b> 🙂👍<br>
-https://urlshrt.eu/buycupofcoffee
-
 <img src="https://urlshrt.eu/donateqr"></img>
 <br>
 <br>
