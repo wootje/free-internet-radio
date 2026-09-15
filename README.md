@@ -2,8 +2,7 @@
 
 A single-file PHP online radio directory with a floating player, personal favorites, live track metadata, a strict dead-stream scanner, and an English administration interface.
 
-**Version: 1.6.9**  
-Based on the supplied **1.6.8** application. This release adds English-only application text, one-time administrator initialization, removal of initialization credentials from the installed source, and an account password-change page. It preserves the existing station, playback-health, metadata, scrolling-title, and caching behavior.
+This release adds English-only application text, one-time administrator initialization, removal of initialization credentials from the installed source, and an account password-change page. It preserves the existing station, playback-health, metadata, scrolling-title, and caching behavior.
 
 > **Important:** On a new installation the initial username and password are both `admin`. Restrict access to the website during installation, sign in immediately, and change this password. The application requires the initial administrator to change it before using the account. Removing credentials from a PHP file is not a substitute for changing a known default password.
 
