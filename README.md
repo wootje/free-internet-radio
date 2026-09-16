@@ -249,3 +249,5 @@ See [TESTING.md](TESTING.md) for exactly what was checked. The release has not b
 - [PHP opcache_invalidate](https://www.php.net/manual/en/function.opcache-invalidate.php)
 - [SQLite online backup API](https://www.sqlite.org/backup.html)
 - [SQLite write-ahead logging](https://www.sqlite.org/wal.html)
+
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wootje/free-internet-radio/total">
